@@ -3,8 +3,8 @@
 Module 12 — Automated Geophysical Map Digitization Pipeline
 ============================================================
 Southern Marmara Sea Legacy Geophysical Dataset Project
-Author: [Your Name], [Your Institution]
-Version: 2.0 (March 2026)
+Author: Muhammet Ali Aygun, Istanbul University(Department of Marine Geology&Geophysics)
+Version: 1.7 (March 2024)
 
 Description
 -----------
